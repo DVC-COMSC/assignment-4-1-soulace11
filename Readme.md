@@ -6,3 +6,9 @@
 -->
 
 ## Complete the "main.py"
+
+* Assignment 4-1: Prime Number
+  * Determine that the user input is the prime number or not
+  * Take user input (one integer, greater than 1 )
+    * Print ‘True’ if it is prime number, else print ‘False’
+
